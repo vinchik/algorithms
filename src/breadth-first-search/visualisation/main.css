@@ -1,0 +1,74 @@
+div.container {
+  position: relative;
+}
+
+div.city {
+  position: absolute;
+  border: 2px solid green;
+  width: 120px;
+  height: 40px;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 40px;
+  font-size: 1.2em;
+}
+
+#kyiv {
+  left: 500px;
+  top: 200px;
+}
+
+#chernihiv {
+  left: 700px;
+  top: 0px;
+}
+
+#zhytomyr {
+  left: 300px;
+  top: 100px;
+}
+
+#rivne {
+  left: 100px;
+  top: 50px;
+}
+
+#poltava {
+  left: 700px;
+  top: 250px;
+}
+
+#kharkiv {
+  left: 900px;
+  top: 300px;
+}
+
+#luhansk {
+  left: 950px;
+  top: 450px;
+}
+
+#dnipro {
+  left: 650px;
+  top: 450px;
+}
+
+#kremenchuk {
+  left: 600px;
+  top: 350px;
+}
+
+#kropyvnytskyi {
+  left: 450px;
+  top: 400px;
+}
+
+#vinnytsia {
+  left: 350px;
+  top: 300px;
+}
+
+#kryvyi_rih {
+  left: 500px;
+  top: 550px;
+}
