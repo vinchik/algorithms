@@ -1,0 +1,15 @@
+{
+  "presets": [
+    "@babel/env",
+    "@babel/preset-typescript"
+  ],
+  "plugins": [
+    "@babel/proposal-class-properties",
+    "@babel/proposal-object-rest-spread",
+    "@babel/plugin-proposal-numeric-separator",
+    "@babel/plugin-transform-runtime"
+  ],
+  "ignore": [
+    "src/**/visualisation"
+  ]
+}
